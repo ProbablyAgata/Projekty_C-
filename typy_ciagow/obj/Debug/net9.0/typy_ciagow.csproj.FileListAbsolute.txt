@@ -1,0 +1,15 @@
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\typy_ciagow\bin\Debug\net9.0\typy_ciagow.exe
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\typy_ciagow\bin\Debug\net9.0\typy_ciagow.deps.json
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\typy_ciagow\bin\Debug\net9.0\typy_ciagow.runtimeconfig.json
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\typy_ciagow\bin\Debug\net9.0\typy_ciagow.dll
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\typy_ciagow\bin\Debug\net9.0\typy_ciagow.pdb
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\typy_ciagow\obj\Debug\net9.0\typy_ciagow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\typy_ciagow\obj\Debug\net9.0\typy_ciagow.AssemblyInfoInputs.cache
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\typy_ciagow\obj\Debug\net9.0\typy_ciagow.AssemblyInfo.cs
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\typy_ciagow\obj\Debug\net9.0\typy_ciagow.csproj.CoreCompileInputs.cache
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\typy_ciagow\obj\Debug\net9.0\typy_ciagow.sourcelink.json
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\typy_ciagow\obj\Debug\net9.0\typy_ciagow.dll
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\typy_ciagow\obj\Debug\net9.0\refint\typy_ciagow.dll
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\typy_ciagow\obj\Debug\net9.0\typy_ciagow.pdb
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\typy_ciagow\obj\Debug\net9.0\typy_ciagow.genruntimeconfig.cache
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\typy_ciagow\obj\Debug\net9.0\ref\typy_ciagow.dll
