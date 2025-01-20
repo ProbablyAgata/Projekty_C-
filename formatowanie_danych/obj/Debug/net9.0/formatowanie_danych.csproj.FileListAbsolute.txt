@@ -1,0 +1,15 @@
+C:\Users\Agata\Desktop\Projekty\NaukaCSharp\formatowanie_danych\bin\Debug\net9.0\formatowanie_danych.exe
+C:\Users\Agata\Desktop\Projekty\NaukaCSharp\formatowanie_danych\bin\Debug\net9.0\formatowanie_danych.deps.json
+C:\Users\Agata\Desktop\Projekty\NaukaCSharp\formatowanie_danych\bin\Debug\net9.0\formatowanie_danych.runtimeconfig.json
+C:\Users\Agata\Desktop\Projekty\NaukaCSharp\formatowanie_danych\bin\Debug\net9.0\formatowanie_danych.dll
+C:\Users\Agata\Desktop\Projekty\NaukaCSharp\formatowanie_danych\bin\Debug\net9.0\formatowanie_danych.pdb
+C:\Users\Agata\Desktop\Projekty\NaukaCSharp\formatowanie_danych\obj\Debug\net9.0\formatowanie_danych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agata\Desktop\Projekty\NaukaCSharp\formatowanie_danych\obj\Debug\net9.0\formatowanie_danych.AssemblyInfoInputs.cache
+C:\Users\Agata\Desktop\Projekty\NaukaCSharp\formatowanie_danych\obj\Debug\net9.0\formatowanie_danych.AssemblyInfo.cs
+C:\Users\Agata\Desktop\Projekty\NaukaCSharp\formatowanie_danych\obj\Debug\net9.0\formatowanie_danych.csproj.CoreCompileInputs.cache
+C:\Users\Agata\Desktop\Projekty\NaukaCSharp\formatowanie_danych\obj\Debug\net9.0\formatowanie_danych.sourcelink.json
+C:\Users\Agata\Desktop\Projekty\NaukaCSharp\formatowanie_danych\obj\Debug\net9.0\formatowanie_danych.dll
+C:\Users\Agata\Desktop\Projekty\NaukaCSharp\formatowanie_danych\obj\Debug\net9.0\refint\formatowanie_danych.dll
+C:\Users\Agata\Desktop\Projekty\NaukaCSharp\formatowanie_danych\obj\Debug\net9.0\formatowanie_danych.pdb
+C:\Users\Agata\Desktop\Projekty\NaukaCSharp\formatowanie_danych\obj\Debug\net9.0\formatowanie_danych.genruntimeconfig.cache
+C:\Users\Agata\Desktop\Projekty\NaukaCSharp\formatowanie_danych\obj\Debug\net9.0\ref\formatowanie_danych.dll
