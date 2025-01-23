@@ -1,0 +1,5 @@
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\metodyzparametrami\obj\Debug\net9.0\metodyzparametrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\metodyzparametrami\obj\Debug\net9.0\metodyzparametrami.AssemblyInfoInputs.cache
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\metodyzparametrami\obj\Debug\net9.0\metodyzparametrami.AssemblyInfo.cs
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\metodyzparametrami\obj\Debug\net9.0\metodyzparametrami.csproj.CoreCompileInputs.cache
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\metodyzparametrami\obj\Debug\net9.0\metodyzparametrami.sourcelink.json

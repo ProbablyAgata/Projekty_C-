@@ -1,0 +1,5 @@
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\pierwsze_metody\obj\Debug\net9.0\pierwsze_metody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\pierwsze_metody\obj\Debug\net9.0\pierwsze_metody.AssemblyInfoInputs.cache
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\pierwsze_metody\obj\Debug\net9.0\pierwsze_metody.AssemblyInfo.cs
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\pierwsze_metody\obj\Debug\net9.0\pierwsze_metody.csproj.CoreCompileInputs.cache
+C:\Users\Agata\Desktop\Projekty\Projekty_C#\pierwsze_metody\obj\Debug\net9.0\pierwsze_metody.sourcelink.json
