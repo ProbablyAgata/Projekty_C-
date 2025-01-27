@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projekt_Agata_Ochocińska")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a58a6e3d2660deec4cdd0b6affc4e0c0ae4ea8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bea418f788e08f081edca1f1061ed449ed990ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projekt_Agata_Ochocińska")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projekt_Agata_Ochocińska")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
